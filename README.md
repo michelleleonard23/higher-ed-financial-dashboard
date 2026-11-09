@@ -1,6 +1,6 @@
 Higher Education Financial Dashboard (Power BI)
 A multi-page Power BI report I designed and built from scratch on a fictional six-institution public college system. It shows how I approach multi-source data reconciliation, data modeling, DAX, and dashboard design for financial and enrollment reporting.
-All data is fictional. Institution names, dollar amounts and records are randomly generated. No real student, financial or personnel data is used anywhere in this model. What is realistic is the structure: the tables, relationships and reconciliation logic mirror how a statewide ERP (PeopleSoft) and a student information system (Banner) connect in practice.
+All data is fictional. Institution names, dollar amounts and records are randomly generated. No real student, financial or personnel data is used anywhere in this model. What is realistic is the structure: the tables, relationships and reconciliation logic.
 ![Financial Overview](screenshots/financial-overview.png)
 View the full report as a PDF (no Power BI needed) or download the Power BI file.
 Report Pages
