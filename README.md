@@ -90,4 +90,6 @@ Power BI Desktop, DAX, Power Query, data modeling, Excel
 
 I'm Michelle Leonard, a finance and data professional with 20+ years of experience turning messy multi-system data into reporting that leaders trust and use. LinkedIn: https://www.linkedin.com/in/michelle-leonard-331126b
 
-More of my work: https://github.com/michelleleonard23/overtime-dashboard
+More of my work:
+- [Overtime Dashboard](https://github.com/michelleleonard23/overtime-dashboard)
+- [Member Finance Dashboard](https://github.com/michelleleonard23/member_dashboard)
